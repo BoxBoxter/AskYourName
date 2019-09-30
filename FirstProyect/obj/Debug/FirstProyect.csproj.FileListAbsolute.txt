@@ -1,0 +1,6 @@
+C:\Users\Fabio\Documents\GradoSuperior S2P\Desenvolupament d'interficies\Activities\Installation Visual Studio\FirstProyect\FirstProyect\bin\Debug\FirstProyect.exe.config
+C:\Users\Fabio\Documents\GradoSuperior S2P\Desenvolupament d'interficies\Activities\Installation Visual Studio\FirstProyect\FirstProyect\bin\Debug\FirstProyect.exe
+C:\Users\Fabio\Documents\GradoSuperior S2P\Desenvolupament d'interficies\Activities\Installation Visual Studio\FirstProyect\FirstProyect\bin\Debug\FirstProyect.pdb
+C:\Users\Fabio\Documents\GradoSuperior S2P\Desenvolupament d'interficies\Activities\Installation Visual Studio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.csprojAssemblyReference.cache
+C:\Users\Fabio\Documents\GradoSuperior S2P\Desenvolupament d'interficies\Activities\Installation Visual Studio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.exe
+C:\Users\Fabio\Documents\GradoSuperior S2P\Desenvolupament d'interficies\Activities\Installation Visual Studio\FirstProyect\FirstProyect\obj\Debug\FirstProyect.pdb
